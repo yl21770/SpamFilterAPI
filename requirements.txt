@@ -3,17 +3,12 @@ asttokens==2.1.0
 astunparse==1.6.3
 backcall==0.2.0
 bokeh==3.0.3
-brotlipy @ file:///D:/bld/brotlipy_1666764804378/work
 cachetools==5.2.0
 certifi==2022.9.24
-cffi @ file:///D:/bld/cffi_1666754925774/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
 click==8.1.3
 colorama==0.4.6
 conda==22.9.0
-conda-package-handling @ file:///D:/bld/conda-package-handling_1666837482368/work
 contourpy==1.0.6
-cryptography @ file:///D:/bld/cryptography_1666831977369/work
 cycler==0.11.0
 debugpy==1.6.3
 decorator==5.1.1
@@ -27,10 +22,8 @@ gast==0.4.0
 google-auth==2.14.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1658658635601/work
 grpcio==1.50.0
 h5py==3.7.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
 ipykernel==6.17.0
 ipython==8.6.0
 itsdangerous==2.1.2
@@ -48,7 +41,6 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
-menuinst @ file:///D:/bld/menuinst_1666839998718/work
 nest-asyncio==1.5.6
 nltk==3.7
 numpy==1.23.4
@@ -66,13 +58,9 @@ psutil==5.9.4
 pure-eval==0.2.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycosat @ file:///D:/bld/pycosat_1666836675990/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
 pydot==1.4.2
 Pygments==2.13.0
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1665350324128/work
 pyparsing==3.0.9
-PySocks @ file:///D:/bld/pysocks_1661604991356/work
 python-dateutil==2.8.2
 python-utils==3.4.5
 pytz==2022.6
@@ -80,10 +68,8 @@ pywin32==305
 PyYAML==6.0
 pyzmq==24.0.1
 regex==2022.10.31
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
 requests-oauthlib==1.3.1
 rsa==4.9
-ruamel-yaml-conda @ file:///D:/bld/ruamel_yaml_1666819833015/work
 scikit-learn==1.1.3
 scipy==1.9.3
 seaborn==0.12.1
@@ -98,15 +84,11 @@ tensorflow-hub==0.13.0
 tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.1.0
 threadpoolctl==3.1.0
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
 tornado==6.2
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
 traitlets==5.5.0
 typing_extensions==4.4.0
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
 waitress==2.1.2
 wcwidth==0.2.5
 Werkzeug==2.2.2
-win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
 wrapt==1.14.1
 xyzservices==2022.9.0
